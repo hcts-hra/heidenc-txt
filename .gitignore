@@ -3,7 +3,5 @@
 *.rar
 character_variants/
 _*/
-Falue_jingji_cidian/faluejingjicidian.doc
-Falue_jingji_cidian/faluejingjicidian.pdf
-Swc/shehuiwenticidian.doc
-Swc/shehuiwenticidian.pdf
+results/**/*.doc
+results/**/*.pdf

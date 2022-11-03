@@ -1,0 +1,22 @@
+﻿<pb ?>
+<rh>二六八分</rh>
+<ti>DICTIONARY OF PHILOSOPHY
+BY
+PING-TSING FAN
+lst ed.,May,1926
+Price:$5.00,postage extra
+THE COMMERCIAL PRESS,LIMITED
+SHANGHAI,CHINA
+ALL RIGHTS RESERVED</ti>
+<h>中華民國十五年五月初版</h>
+<h1>（哲　學　辭　典　一　册）</h>
+<h1>（每册定價大洋伍元）</h>
+<h1>（外埠酌加運費匯費）</h>
+<tb>
+編　纂　者 # 樊　炳　清
+發　行　者 # 商　務　印　書　<館R>
+印　刷　所 # 上海北河南路北首寶<?>山路\\商　務　印　書　館
+總發行所 # 上　海　棋　盤　街　中　市\\商　務　印　書　館
+分　售　處 # 北京　天津　保定　奉天　吉林　龍江\\濟南　太原　開封　西安　南京　杭州\\蘭<?>谿　安慶　蕪湖　南昌　九江　漢口\\長沙　常德　衡州　成都　重慶　廈門\\福州　廣州　潮州　香港　梧州　雲南\\貴陽　張家口　新嘉坡\\商　務　印　書　分　館
+＠此書有著作權翻印必究＠
+</tb>
