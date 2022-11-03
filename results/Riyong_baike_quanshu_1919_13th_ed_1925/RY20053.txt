@@ -1,0 +1,13 @@
+﻿<ti>日
+<sm>商務印書館出版　智識\\錦囊　正編　天象　時序　地理　歷史
+教育　哲學\\倫理　文學　書畫</sm></ti>
+<p>This book should be returned to
+the Library on or before the last date
+stamped below
+A fine of five cents a day is incurred
+by retaining it beyond the specified
+time
+Please return promptly</p>
+<gap>
+OCT 03 2007
+FEB 10 2008﻿

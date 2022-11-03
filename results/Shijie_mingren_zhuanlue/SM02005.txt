@@ -1,0 +1,20 @@
+﻿﻿<ti>版權所有
+光緒三十四年戊申十月出版　<sm>（世界名人傳略）\\（定價銀三元）</sm></ti>
+原著者　英國張伯爾
+<fig>
+<desc>譯述者</desc>
+<desc>英國竇樂安</desc>
+<desc>同安黄鼎</desc>
+<desc>上海張在新</desc>
+<desc>蓬萊郭鳳翰</desc>
+</fig>
+校訂者　上虞許家惺
+發行者　山西大學堂譯書院
+<fig>
+<desc>寄售者</desc>
+<desc>廣學會</desc>
+<desc>美華書館</desc>
+<desc>華美書局</desc>
+<desc>羣學<社R></desc>
+</fig>
+印刷者　商務印書館

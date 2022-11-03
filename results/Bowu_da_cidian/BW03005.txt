@@ -1,0 +1,49 @@
+﻿<pb 一><rh>博物大辭典</rh>
+<toc>
+<ti>博物大辭典補遣西文索引</ti>
+Banded structure # 帶狀構造 # 11
+Bog rion ore # 泥鐵鑛 # 7
+Booss # 大塊 # 1
+Carbonizatin # 炭化作用 # 8
+Carbureted Spring # 炭酸泉 # 8
+Cool seam # 炭層 # 8
+Comhositae # 菊科植物12
+Coniferrae # 松柏科植物 # 7
+Cross Fertilizarion # 他花受精 # 5
+Crost of a fowl # 肉冠 # 6
+Cruciferae # 十字科植物 # 1
+Duodenum # 十二指腸 # 1
+Egg # 卵 # 6
+Endoskeleton # 内骨骼 # 2
+Equistineae # 木賊類 # 3
+Grafting # 接木 # 17
+Grus japonensis # 丹顶鶴 # 3
+Hydrochemicalprocess # 水化作用 # 3
+Integripalliata # 完緣類 # 7
+Isatis tinctoria # 大青 # 1
+Jungi # 菌類 # 12
+Leguminosae # 荳科植物 # 11
+Marble # 大理石 # 2
+<pb 二><rh>候補西文索引</rh>
+Maxillary bone # 上顎骨 # 2
+Nigative Geotropism # 背地性 # 9
+Orchidaceae # 蘭科植物 # 13
+Perennial root # 多年根 # 6
+Pinusparviffora S et z # 姬小松 # 11
+Placenta # 胎盤 # 9
+Placenta # 胎座 # 9
+Pollicipes mutlla Daiwin # 石砌 # 4
+Poly morphism # 多形 # 6
+Polypodium lineare Tiunb # 瓦韋 # 4
+Proustite # 淡紅銀鑛 # 10
+Puniea Granatam # 安石榴 # 5
+Redochre # 代赭石 # 5
+Reflex movesnent # 反射運動 # 3
+Selaginellceae # 卷柏科 # 7
+Smooth musclefibre # 平滑筋纖維 # 4
+Soil # 土壤 # 2
+Symmetrically bonded structure # 帶狀組織 # 10
+Symmetry # 同形 # 5
+Sympathetic nerve # 交感神經 # 6
+Uiviparous # 胎生 # 9
+</toc>
