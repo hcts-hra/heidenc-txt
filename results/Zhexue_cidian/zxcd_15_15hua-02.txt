@@ -1,0 +1,8 @@
+﻿<pb 883><rh>十五畫　槪　樂</rh>
+<col　1>
+<h 2>槪念史</h>　<sm>英　History of Concepts\\德　Geschichte der Begriffe</sm>
+<p>就特殊之事實的認識，而敘述其變遷發達之跡者，謂
+之槪念史，所以補哲學史及特殊科學史之不足。此<sl>德
+國</sl>學者<sl>特倫對倫布</sl>（Trendelenbury）所始命名，後
+有<sl>米勒</sl>（Muller），<sl>倭鏗</sl>（Eucken），<sl>何輝爾</sl>（Whewall），
+<sl>文得爾班</sl>（Windelband）諸家咸承共說而沿襲之。</p>
