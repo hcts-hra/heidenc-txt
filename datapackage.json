@@ -8604,6 +8604,15 @@
       "format": "txt",
       "hashing": "md5",
       "encoding": "utf-8-sig"
+    },
+    {
+      "path": "excerpts_bianyi.md",
+      "name": "excerpts_bianyi.md",
+      "profile": "data-resource",
+      "scheme": "file",
+      "format": "txt",
+      "hashing": "md5",
+      "encoding": "utf-8-sig"
     }
   ],
   "licenses": [

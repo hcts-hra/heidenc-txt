@@ -1,0 +1,37 @@
+{
+    "creators": [
+        {
+            "orcid": "0000-0001-8958-6463",
+            "affiliation": "Heidelberg University",
+            "name": "Paterson, Duncan"
+        },
+        {
+            "affiliation": "Heidelberg University",
+            "name": "Wagner, Rudolf G."
+        }
+    ],
+    "license": "CC-BY-SA-4.0",
+    "title": "heidENC: Heidelberg Encyclopedia Database",
+    "keywords": [
+        "Asia",
+        "China",
+        "Japan",
+        "history",
+        "Encyclopedia"
+    ],
+    "communities": [
+        {"identifier": "zenodo"}
+    ],
+    "subjects": [
+        {
+            "term": "Reference books",
+            "identifier": "https://id.loc.gov/authorities/subjects/sh85112186.html",
+            "scheme": "url"
+        },
+        {
+            "term": "Books--China--History",
+            "identifier": "https://id.loc.gov/authorities/subjects/sh2007102095.html",
+            "scheme": "url"
+        }
+    ]
+}
